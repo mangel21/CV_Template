@@ -1,2 +1,9 @@
 # CV_Template
 Plantilla para tu CV en LaTeX
+
+# PASOS
+## 1. DESCARGAR EL .ZIP
+
+## 2. IMPORTAR EL .ZIP A OVERLEAF.COM
+
+## 3. AJUSTAR LOS PARÁMETROS A TU PERFIL
